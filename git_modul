@@ -6,3 +6,5 @@ What I just discovered is that this "updated" Smartgit version does not
 allow me to right-click these submodule and resolve the problem by Removing
 the submodule, because the menu option was disabled, I had to use the
 command line to remove the submodule.
+
+
